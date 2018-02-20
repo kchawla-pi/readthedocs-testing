@@ -1,0 +1,1 @@
+*``/docs/module2docs/dummy3docs.rst``*
